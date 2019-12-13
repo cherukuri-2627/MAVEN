@@ -1,0 +1,8 @@
+for windows:
+
+
+
+goto apache site and download the maven zip file
+copy in and folder
+extract it
+goto mycompter-right click-properties-advanced settings-environment variables-in system variables-select new-add-MAVEN_HOME-PATH without \bin-now add M2_HOME-path-now goto path-add path by seperating with semi column-save-cmd prompt-mvn -version.
